@@ -15,13 +15,13 @@
 ### Reach me here 📫 :
 <br>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/shyam-jayakannan-251111234">
+  <a target="blank" href="https://www.linkedin.com/in/shyam-jayakannan-251111234">
     <img height=40 align="center" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=white&labelColor=black&color=0A66C2" />
   </a>
-  <a target="_blank" href="discordapp.com/users/shyamjayakannan">
+  <a target="blank" href="discordapp.com/users/shyamjayakannan">
     <img height=40 align="center" src="https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&labelColor=black&color=5865F2" />
   </a>
-  <a target="_blank" href="https://t.me/shyamjayakannan">
+  <a target="blank" href="https://t.me/shyamjayakannan">
     <img height=40 align="center" src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&labelColor=black&color=229ED9" />
   </a>
 </p>
