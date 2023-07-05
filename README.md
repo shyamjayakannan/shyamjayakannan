@@ -3,7 +3,10 @@
 ### Languages and Frameworks
 <p align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+    <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  </span>
+  <span>
+    <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </span>
 </p>
 ---
