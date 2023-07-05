@@ -1,6 +1,12 @@
 ### Hi there 👋
 ---
-
+### Languages and Frameworks
+<p align="center">
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  </span>
+</p>
+---
 ### Stats
 <br>
 <p align="center">
