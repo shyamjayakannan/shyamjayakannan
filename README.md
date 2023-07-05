@@ -16,10 +16,13 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/shyam-jayakannan-251111234">
-    <img height=40 align="center" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=white&labelColor=black&color=blue" />
+    <img height=40 align="center" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=white&labelColor=black&color=0A66C2" />
   </a>
-  <a>
-    <img align="center" src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&labelColor=black&color=blue" />
+  <a href="discordapp.com/users/shyamjayakannan">
+    <img height=40 align="center" src="https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&labelColor=black&color=5865F2" />
+  </a>
+  <a href="https://t.me/shyamjayakannan">
+    <img height=40 align="center" src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&labelColor=black&color=229ED9" />
   </a>
 </p>
 
