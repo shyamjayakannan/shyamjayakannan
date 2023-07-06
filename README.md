@@ -43,7 +43,7 @@ I am Shyam Jayakannan. I like doing fun projects that help me learn new things a
   <a target="blank" href="https://www.linkedin.com/in/shyam-jayakannan-251111234">
     <img height=40 align="center" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=white&labelColor=black&color=0A66C2" />
   </a>
-  <a target="blank" href="discordapp.com/users/shyamjayakannan">
+  <a target="blank" href="https://discordapp.com/users/shyamjayakannan">
     <img height=40 align="center" src="https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&labelColor=black&color=5865F2" />
   </a>
   <a target="blank" href="https://t.me/shyamjayakannan">
