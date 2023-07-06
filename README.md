@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Shyam Jayakannan. I like doing fun projects that help me learn new things and expose me to different styles of programming. Reach out to me if you wish to collaborate!
+
 ---
 ### Languages and Frameworks
 <p align="center">
@@ -19,12 +21,6 @@
   </a>
   <a href="https://github.com">
     <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-  <a href="https://firebase.google.com">
-    <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  </a>
-  <a href="https://webpack.js.org">
-    <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   </a>
 </p>
 
