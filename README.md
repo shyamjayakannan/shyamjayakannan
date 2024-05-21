@@ -22,6 +22,9 @@ I am Shyam Jayakannan. I like doing fun projects that help me learn new things a
   <a href="https://github.com">
     <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
+  <a href="https://in.mathworks.com/products/matlab.html">
+    <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  </a>
 </p>
 
 ---
